@@ -64,6 +64,7 @@ a, button, input{
 .main_title {
     color: white;
     width: 90%;
+    width: fit-content;
 margin: auto;
 text-align: center;
 padding:  0 0 10px 0;
